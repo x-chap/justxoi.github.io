@@ -11,9 +11,9 @@ image: "/assets/images/Justxoi pfp 512.png"
 
 <body>
     <div style="text-align:left">
-        <h4>
+        <h3>
             About Me
-        </h4>
+        </h3>
     </div>
 Hi I'm Xoi! 
 [he/they] [19] [<span class="mint-gradient-text">Mint</span> / / <span class="twilight-gradient-text">Twilight</span>]
