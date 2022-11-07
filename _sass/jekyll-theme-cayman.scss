@@ -383,11 +383,7 @@ a {
   background-color: $mint-bg-color;
   
   /* Create the gradient. */
-  background-image: linear-gradient(120deg, $mint-color-secondary, $mint-bg-color);
-  
-  /* Set the background size and repeat properties. */
-  background-size: 100%;
-  background-repeat: repeat;
+  background-image: linear-gradient(90deg,#26ceaa,#f1efff,#5049cc);
 
   /* Use the text as a mask for the background. */
   /* This will show the gradient as a text color rather than element bg. */
