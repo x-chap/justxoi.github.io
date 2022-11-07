@@ -13,8 +13,7 @@ image: "/assets/images/Justxoi pfp 512.png"
     <div style="text-align:center">
         Hello! I'm Xoi! (& Soul)
     </div>
-<p class="mint-gradient-text">Mint</p>
-
 
 <a href=""><span class="mint-gradient-text">Mint</span></a>
+<a href=""><span class="twilight-gradient-text">Twilight</span></a>
 </body>
