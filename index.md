@@ -9,4 +9,11 @@ image: "/assets/images/Justxoi pfp 512.png"
     <a href="https://www.twitter.com/JustXoi" class="btn" target="_blank"><img src="assets/images/Twitter social icons - rounded square - blue.png"></a>
 </div>
 
-Hello World!
+<body>
+    <div style="text-align:center">
+        Hello! I'm Xoi! (& Soul)
+    </div>
+<p class="mint-gradient-text">Mint</p>
+
+
+</body>
