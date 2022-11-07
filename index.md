@@ -22,4 +22,6 @@ Hello! I am a fox that likes video games, art, and the outdoors! <br>
 <br>
 Above you will find my social links, and below you can find some more specific links!<br>
 
+
+<a href="https://destinytracker.com/destiny-2/profile/steam/4611686018467833109/overview" class="btn" target="_blank"><img class="profile-icon> "src="assets/images/destiny logo.svg"></a>
 </body>
