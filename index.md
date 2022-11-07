@@ -15,13 +15,11 @@ image: "/assets/images/Justxoi pfp 512.png"
             About Me
         </h3>
     </div>
-Hi I'm Xoi! 
-
-
-[he/they] [19] [<span class="mint-gradient-text">Mint</span> / / <span class="twilight-gradient-text">Twilight</span>]
-
-Hello! I am a fox that likes video games, art, and the outdoors! 
-
-Above you will find my social links, and below you can find some more specific links!
+Hi I'm Xoi! <br>
+[he/they] [19] [<span class="mint-gradient-text">Mint</span> / / <span class="twilight-gradient-text">Twilight</span>]<br>
+<br>
+Hello! I am a fox that likes video games, art, and the outdoors! <br>
+<br>
+Above you will find my social links, and below you can find some more specific links!<br>
 
 </body>
