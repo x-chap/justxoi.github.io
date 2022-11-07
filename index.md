@@ -10,10 +10,11 @@ image: "/assets/images/Justxoi pfp 512.png"
 </div>
 
 <body>
-    <div style="text-align:center">
-        Hello! I'm Xoi! (& Soul)
+    <div style="text-align:left">
+        About Me
     </div>
+Hi I'm Xoi! 
+[he/they] [19] [<span class="mint-gradient-text">Mint</span> / / <span class="twilight-gradient-text">Twilight</span>]
 
-<span class="mint-gradient-text">Mint</span>
-<span class="twilight-gradient-text">Twilight</span>
+
 </body>
