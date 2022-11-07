@@ -16,4 +16,5 @@ image: "/assets/images/Justxoi pfp 512.png"
 <p class="mint-gradient-text">Mint</p>
 
 
+<a href=""><span class="mint-gradient-text">Mint</span></a>
 </body>
