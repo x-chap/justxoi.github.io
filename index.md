@@ -5,4 +5,7 @@ permalink: /index.html
 
 
 Hello World! 
+
 testing
+
+[Link to another page](./home.md).
