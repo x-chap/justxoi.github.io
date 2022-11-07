@@ -27,4 +27,3 @@ Above you will find my social links, and below you can find some more specific l
 
 <a to="https://valorant.op.gg/profile/name=Xoi&tagLine=UwU" href="https://valorant.op.gg/profile/name=Xoi&tagLine=UwU" target="_blank"><img class="profile-icon" src="https://opgg-gnb.akamaized.net/static/images/icons/img-navi-valorant-white.svg" alt="Valorant">
 
-</body>
