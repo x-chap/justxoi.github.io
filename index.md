@@ -7,9 +7,12 @@ image: "/assets/images/Justxoi pfp 512.png"
 <div class="row" style="text-align:center">
     <a href="https://www.twitter.com/JustXoi" class="btn" target="_blank"><img class= "profile-icon" src="assets/images/Logo white.svg"></a>
     <!--<a href="https://www.twitter.com/JustXoi" class="btn" target="_blank"><img src="assets/images/Twitter social icons - rounded square - blue.png"></a>-->
-    <a href="https://bsky.app/profile/xoi.gay">bluesky!</a>
+    
 </div>
-
+<div>
+<a href="https://bsky.app/profile/xoi.gay">bluesky!</a>
+<a href="https://toyhou.se/14524922.soul">toyhou.se!</a>
+</div>
 <body>
     <div style="text-align:left">
         <h3>
