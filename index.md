@@ -9,7 +9,7 @@ image: "/assets/images/Justxoi pfp 512.png"
     <!--<a href="https://www.twitter.com/JustXoi" class="btn" target="_blank"><img src="assets/images/Twitter social icons - rounded square - blue.png"></a>-->
     
 </div>
-<div>
+<div style="text-align:center">
 <a href="https://bsky.app/profile/xoi.gay">bluesky!</a>
 <a href="https://toyhou.se/14524922.soul">toyhou.se!</a>
 </div>
