@@ -21,7 +21,8 @@ image: "/assets/images/Justxoi pfp 512.png"
         </h3>
     </div>
     Hi I'm Xoi! <br>
-    [he/they] [20] [<span class="mint-gradient-text">Mint(gay)</span> / / <span
+    [he/they] [20] [<span class="mint-gradient-text"><ruby>Mint<rt>gay</rt></ruby>
+</span> / / <span
         class="twilight-gradient-text">Twilight(asexual)</span>]<br>
     <br>
     Hello! I am a fox that likes video games, art, and the outdoors! <br>
