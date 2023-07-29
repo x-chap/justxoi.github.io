@@ -21,7 +21,7 @@ image: "/assets/images/Justxoi pfp 512.png"
         </h3>
     </div>
     Hi I'm Xoi! <br>
-    [he/they] [20] [<span class="mint-gradient-text">Gay</span> / / <span class="twilight-gradient-text">Asexual</span>] [<img class="profile-icon" src="https://static.wikia.nocookie.net/therian/images/3/3d/Theta-Delta_Custom_Emoji.svg">]
+    [he/they] [20] [<span class="mint-gradient-text">Gay</span> / / <span class="twilight-gradient-text">Asexual</span>] [<img class="profile-icon" style="vertical-align:bottom" src="https://static.wikia.nocookie.net/therian/images/3/3d/Theta-Delta_Custom_Emoji.svg">]
     <br>
     <br>
     Hello! I am a fox that likes video games, art, and the outdoors! <br>
