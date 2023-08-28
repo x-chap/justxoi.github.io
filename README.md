@@ -1,4 +1,4 @@
-# justxoi.github.io
+# justxoi.github.io / xoi.gay
 
 HEY SO THIS IS A READ ME ABOUT THIS WEBSITE HERE THAT YOU CAN SEE IN FRONT OF YOU
 
