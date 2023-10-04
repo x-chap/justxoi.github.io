@@ -52,19 +52,3 @@ image: "/assets/images/Justxoi pfp 512.png"
     <a to="https://www.overbuff.com/players/Xoi-11746/" href="https://www.overbuff.com/players/Xoi-11746/" target="_blank">
         <img alt="Overwatch link." class="profile-icon" src="https://opgg-gnb.akamaized.net/static/images/icons/img-navi-overwatch-gray.svg">
     </a>
-
-<script>
-    let konamiCode = ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'KeyB', 'KeyA'];
-    let currentIndex = 0;
-
-    document.addEventListener('keydown', function(e) {
-        if (e.code === konamiCode[currentIndex]) {
-            currentIndex++;
-            if (currentIndex === konamiCode.length) {
-                // Konami Code successfully entered
-                window.location.href = 'https://xoi.gay/school';
-        } else {
-            currentIndex = 0;  // Reset the index if a wrong key is pressed
-        }
-    });
-</script>
