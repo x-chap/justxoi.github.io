@@ -1,0 +1,87 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.info-section {
+    background-color: #fff;
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.custom-link {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+.custom-link:hover {
+    color: #45a049;
+    text-decoration: underline;
+}
+
+.custom-link:visited{
+    color: #8BC34A;
+}
+
+.info-section img {
+    max-width: 100%;  /* Ensures the image doesn't overflow its container */
+    height: auto;    /* Maintains the image's aspect ratio */
+    margin: 20px 0;  /* Adds some space above and below the image */
+    border-radius: 5px; /* Optional: gives the image rounded corners */
+}
+
+ul {
+    list-style-type: circle; /* Changes bullet style; other options include 'square', 'disc' (default), etc. */
+    padding-left: 20px; /* Adjusts the space from the left; can be increased or decreased as needed */
+}
+
+ul li {
+    margin-bottom: 10px; /* Adds some space below each bullet point */
+}
+
+/* Using Flexbox to position content side by side */
+.content-flex {
+    display: flex;
+    align-items: start; /* Aligns content to the top */
+    gap: 20px; /* Space between the image and the bullet points */
+}
+
+/* Style for the image */
+.side-image {
+    max-width: 40%; /* Adjust based on your design needs */
+    height: auto;
+    border-radius: 5px;
+}
+
+/* Style for the bullet points container */
+.bullet-content {
+    flex: 1; /* Takes the remaining available width */
+}
+
+.centered-header{
+    text-align: center;
+}
