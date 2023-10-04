@@ -3,6 +3,7 @@ permalink: /index.html
 image: "/assets/images/Justxoi pfp 512.png"
 ---
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<body>
 
 <div class="row" style="text-align:center">
     <a href="https://www.twitter.com/JustXoi" class="btn" target="_blank"><img alt="" class="profile-icon"
@@ -60,3 +61,5 @@ image: "/assets/images/Justxoi pfp 512.png"
         }
     });
 </script>
+
+</body>
