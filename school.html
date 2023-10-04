@@ -16,7 +16,7 @@
     </header>
 
     <ul>
-        {% for project in site.school_projects %}
+        {% for project in site.school %}
           <li><a href="{{ project.url }}">{{ project.title | default: project.name }}</a></li>
         {% endfor %}
       </ul>
