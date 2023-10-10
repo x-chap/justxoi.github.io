@@ -50,12 +50,6 @@ footer {
     color: #8BC34A;
 }
 
-.info-section img {
-    max-width: 100%; 
-    height: auto;  
-    margin: 20px 0; 
-    border-radius: 5px; 
-}
 
 ul {
     list-style-type: circle;
