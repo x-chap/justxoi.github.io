@@ -69,13 +69,17 @@ ul li {
 .content-flex {
     display: flex;
     align-items: start;
+    justify-content: space-between; /* This ensures maximum space between the ul and the image */
+    width: 100%;  /* This ensures the flex container takes up the full width of the parent */
     gap: 20px; 
 }
+
 
 .side-image {
     max-width: 40%; 
     height: auto;
     border-radius: 5px;
+    padding-right: 75px;
 }
 
 .bullet-content {
@@ -84,4 +88,23 @@ ul li {
 
 .centered-header{
     text-align: center;
+}
+
+.inline-image {
+    max-width: auto;
+    max-height: 200px;
+    padding-right: 75px;
+    border-radius: 0px;
+    object-fit: cover;
+
+}
+
+
+@media (max-width: 768px) {
+    .content-flex {
+        flex-direction: column;
+    }
+    ul {
+        margin-right: 0;
+    }
 }
