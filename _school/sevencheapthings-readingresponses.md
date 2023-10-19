@@ -1,3 +1,6 @@
+---
+title: Seven Cheap Things Reading Responses
+---
 # 1. Cheap Nature
 
 ### Summary
